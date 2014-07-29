@@ -21,4 +21,4 @@ def binary_convert(input)
   binary_store.join("").to_i
 end
 
-# puts binary_convert("2")
+puts binary_convert("198")
